@@ -1,0 +1,6 @@
+@staging:
+     ssh: motto@35.203.98.50:58074/www/motto_495/public
+     url: https://stage.motto.ca
+@production:
+     ssh: motto@35.203.98.50:58074/www/motto_495/public
+     url: https://preprod.motto.ca
